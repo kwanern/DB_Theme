@@ -1,0 +1,208 @@
+
+.new-notebook.command.mainCommand {
+    background-color: #282a36;
+}
+
+.clickable-text, p, .results{
+    color: #868686 !important;
+}
+
+span.spacing-left {
+    color: #868686;
+}
+
+i.fa.fa-list-alt.fa-fw {
+    color: #868686;
+}
+
+i.fa.fa-caret-down.fa-fw {
+    color: #868686;
+}
+
+i.fa.fa-caret-right.fa-fw {
+    color: #868686;
+}
+
+.ansiout {
+    color: #999;
+}
+
+.widget-content {
+    background-color: #282a36;
+    color: #fff;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #868686;
+}
+
+text {
+    fill: #fff;
+}
+
+.command-button{
+    color: #fff;
+}
+
+svg {
+    filter: invert(1%) sepia(50%) saturate(300%) hue-rotate(150deg) brightness(100%) contrast(100%);
+}
+
+td {
+    color: #fff;
+}
+
+tr:hover {
+    color: #333;
+}
+
+code, pre {
+    color: #c7c7c7 !important;
+}
+
+/*.series0 {
+    fill: #84ceeb;
+}
+
+.series3 {
+    fill: #c1c8e4;
+}
+
+.series1 {
+    fill: #8860d0;
+}
+
+.series2 {
+    fill: #66FCF1;
+}
+
+.series4 {
+    fill: #88bdbc;
+}*/
+
+.progress-bar-fill {
+    background: #7df5f5;
+}
+
+.command-status-text {
+    color: #c7c7c7;
+}
+
+
+
+/*! CodeMirror: Dracula */
+
+.CodeMirror,.CodeMirror-gutters,.CodeMirror-lines {
+    background-color: #282a36;
+    color: #f8f8f2;
+    border: none;
+}
+
+.CodeMirror-gutters {
+    color: #282a36;
+}
+
+.CodeMirror-cursor {
+    border-left: thin solid #f8f8f0;
+}
+
+.CodeMirror-linenumber {
+    color: #6d8a88;
+}
+
+.CodeMirror-matchingbracket {
+    text-decoration: underline;
+    color: #fff;
+}
+
+.cm-bracket {
+    color: #fff;
+}
+
+span.cm-bracket.CodeMirror-matchingbracket {
+    color: #fff;
+}
+
+span.CodeMirror-matchingbracket {
+    color: #fff;
+}
+
+span.cm-comment {
+    color: #aeb2f8;
+}
+
+span.cm-string,span.cm-string-2 {
+    color: #f1fa8c;
+}
+
+span.cm-atom,span.cm-number {
+    color: #bd93f9;
+}
+
+span.cm-attribute,span.cm-builtin,span.cm-qualifier,span.cm-variable,span.cm-variable-3 {
+    color: #50fa7b;
+}
+
+span.cm-variable-2 {
+    color: #c7ffff;
+}
+
+span.cm-def {
+    color: #ffb86c;
+}
+
+span.cm-keyword,span.cm-operator,span.cm-tag {
+    color: #ff79c6;
+}
+
+span.cm-meta {
+    color: #f8f8f2;
+}
+
+span.cm-property {
+    color: #66d9ef;
+}
+/*
+pre.CodeMirror-line {
+    background-color: #282a36;
+}
+*/
+
+
+::selection {
+  background-color: rgb(168, 209, 255,.5) !important; 
+}
+
+::-moz-selection {
+  background-color: rgb(168, 209, 255,.5) !important; 
+}
+
+::-webkit-selection {
+  background-color: rgb(168, 209, 255,.5) !important; 
+}
+
+.CodeMirror-line::selection,.CodeMirror-line>span::selection,.CodeMirror-line>span>span::selection {
+    background-color: rgb(168, 209, 255,.5) !important;
+}
+
+.CodeMirror-line::-moz-selection,.CodeMirror-line>span::-moz-selection,.CodeMirror-line>span>span::-moz-selection {
+    background-color: rgb(168, 209, 255,.5) !important;
+}
+
+.CodeMirror-activeline-background,.CodeMirror-focused div.CodeMirror-selected {
+    background: rgb(168, 209, 255,.5);
+}
+
+div.CodeMirror span.CodeMirror-matchingbracket {color: white !important; font-weight:bold;}
+
+div.new-notebook.overallContainer {
+    background: url("http://avante.biz/wp-content/uploads/Futuristic-Wallpaper/Futuristic-Wallpaper-012.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: cover;
+}
+
+a.command-number {
+    color: #ffffff;
+}
