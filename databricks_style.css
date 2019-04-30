@@ -206,3 +206,7 @@ div.new-notebook.overallContainer {
 a.command-number {
     color: #ffffff;
 }
+
+div.reservoir-table-info p {
+    color: #000000;
+}
